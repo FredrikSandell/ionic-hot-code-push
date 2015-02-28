@@ -1,0 +1,25 @@
+CACHE MANIFEST
+# v1.0
+/lib/ionic/css/ionic.css
+/css/style.css
+/lib/ionic/js/ionic.bundle.js
+/js/app.js
+/index.html
+/#/
+
+
+#CACHE:
+/lib/ionic/css/ionic.css
+/css/style.css
+/lib/ionic/js/ionic.bundle.js
+/js/app.js
+/index.html
+#/#
+
+#NETWORK:
+#*
+ # nothing yet
+
+FALLBACK:
+#/index.html
+ # nothing yet

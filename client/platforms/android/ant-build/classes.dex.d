@@ -1,0 +1,21 @@
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes.dex : \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/com/ionicframework/todo657481/CordovaApp.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/com/ionicframework/todo657481/R$attr.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/com/ionicframework/todo657481/R.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/com/ionicframework/todo657481/R$string.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/com/ionicframework/todo657481/R$xml.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/com/ionicframework/todo657481/R$drawable.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/com/ionicframework/todo657481/BuildConfig.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$1.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$2.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/com/ionic/keyboard/IonicKeyboard$3.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/org/sandell/hotupdate/CordovaApp.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/org/sandell/hotupdate/R$attr.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/org/sandell/hotupdate/R.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/org/sandell/hotupdate/R$string.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/org/sandell/hotupdate/R$xml.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/org/sandell/hotupdate/R$drawable.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/classes/org/sandell/hotupdate/BuildConfig.class \
+/home/liket/repos/ionic_hot_code_update/client/platforms/android/ant-build/dexedLibs/classes-0d674cd8e9db55327eef81ba15eb2a85.jar \

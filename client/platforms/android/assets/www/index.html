@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+
+    <script src="cordova.js"></script>
+    <script>
+        function onBodyLoad()
+        {
+            document.addEventListener("deviceready", function(){
+                //one of these ip-addresses is normally used to address the host machine when using genymotion
+                //location.href = "http://192.168.56.1:9000";
+                location.href = "http://10.0.3.2:9000";
+                //this ip address is normally used when using the standard android emulator
+                //location.href = "http://10.0.2.2:9000";
+            }, false);
+        }
+    </script>
+  </head>
+  <body onload="onBodyLoad()" class="platform-android platform-cordova platform-webview"></body>
+</html>
