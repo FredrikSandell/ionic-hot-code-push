@@ -2,7 +2,7 @@
 An example of how to allow hot code pushes to installed ionic apps.
 
 ####How does it work
-comming soon
+coming soon
 
 ####How to use
 1. make sure you have ionic intalled.
